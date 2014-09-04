@@ -6,7 +6,7 @@
        xmlns:xi="http://www.w3.org/2001/XInclude">
 
   <notheme if="not(/html/body/div[@id='visual-portal-wrapper'])"/>
-  <theme href="/++theme++baseline-example/index.html"/> 
+  <theme href="/++theme++baseline/index.html"/>
 
   <!-- Head rules
        ================================================================== -->
@@ -14,7 +14,7 @@
   <xi:include href="/++framework++baseline/rules/head/base.xml"/>
 
   <after theme="/html/head/title">
-      <link href="/++theme++baseline-example/style.css" 
+      <link href="/++theme++baseline/style.css"
             type="text/css" rel="stylesheet" media="screen"/>
   </after>
 
