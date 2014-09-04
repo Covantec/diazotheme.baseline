@@ -4,4 +4,10 @@ Changelog
 1.0dev (unreleased)
 -------------------
 
+- Added more strings classifiers items for this packages
+  [macagua]
+
+- Fixed IOError: Error reading file /++theme++baseline-example/index.html #1
+  [macagua]
+
 - Initial release
