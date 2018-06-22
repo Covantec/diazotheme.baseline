@@ -4,6 +4,9 @@ Changelog
 1.0dev (unreleased)
 -------------------
 
+- Updated the diazo manifest file
+  [macagua]
+
 - Added more strings classifiers items for this packages
   [macagua]
 
