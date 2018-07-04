@@ -4,6 +4,9 @@ Changelog
 1.0dev (unreleased)
 -------------------
 
+- Updated the diazo baseline theme preview file
+  [macagua]
+
 - Added improvements about README file
   [macagua]
 
