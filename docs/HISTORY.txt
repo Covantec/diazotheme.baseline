@@ -4,10 +4,13 @@ Changelog
 1.0dev (unreleased)
 -------------------
 
+- Added improvements about README file
+  [macagua]
+
 - Updated the diazo manifest file
   [macagua]
 
-- Added more strings classifiers items for this packages
+- Added more strings classifiers items for this package
   [macagua]
 
 - Fixed IOError: Error reading file /++theme++baseline-example/index.html #1
