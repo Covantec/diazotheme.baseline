@@ -5,7 +5,7 @@ version = '1.0'
 
 setup(name='diazotheme.baseline',
       version=version,
-      description="",
+      description="A Diazo Themes implementation for Baseline CSS",
       long_description=open("README.rst").read() + "\n" +
                        open(os.path.join("docs", "HISTORY.txt")).read(),
       classifiers=[
@@ -25,9 +25,11 @@ setup(name='diazotheme.baseline',
         "Topic :: Internet",
         "Topic :: Software Development :: Libraries :: Python Modules",
         ],
-      keywords='web zope plone diazo theme baseline',
-      author='TH-code',
+      keywords='web zope plone diazo theme baseline css framework',
+      author='Thijs Jonkman',
       author_email='t.jonkman@gmail.com',
+      maintainer='Leonardo Caballero',
+      maintainer_email='leonardocaballero@gmail.com',
       url='https://github.com/TH-code/diazotheme.baseline',
       license='GPL',
       packages=find_packages(exclude=['ez_setup']),

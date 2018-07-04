@@ -4,6 +4,9 @@ Changelog
 1.0dev (unreleased)
 -------------------
 
+- Added more strings classifiers items for the metadata package
+  [macagua]
+
 - Updated the diazo baseline theme preview file
   [macagua]
 
