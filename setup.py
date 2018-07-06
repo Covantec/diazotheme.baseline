@@ -8,6 +8,8 @@ setup(name='diazotheme.baseline',
       description="The Diazo Themes implementation for Baseline CSS",
       long_description=open("README.rst").read() + "\n" +
                        open(os.path.join("docs", "HISTORY.txt")).read(),
+      # Get more strings from
+      # https://pypi.org/pypi?:action=list_classifiers
       classifiers=[
         "Development Status :: 3 - Alpha",
         "Environment :: Web Environment",
@@ -15,9 +17,12 @@ setup(name='diazotheme.baseline',
         "Framework :: Plone :: 4.1",
         "Framework :: Plone :: 4.2",
         "Framework :: Plone :: 4.3",
+        "Framework :: Plone :: Theme",
         "Framework :: Zope2",
+        "Framework :: Zope3",
         "Intended Audience :: Developers",
         "Intended Audience :: End Users/Desktop",
+        "License :: OSI Approved :: GNU General Public License v2 (GPLv2)",
         "Operating System :: OS Independent",
         "Programming Language :: Python",
         "Programming Language :: Python :: 2.6",
