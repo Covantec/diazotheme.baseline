@@ -150,25 +150,39 @@ Resources
 This package is the parent of all Plone diazo themes and 
 provides rule that are practical to use in other diazo themes.
 
-The resources of this framework can be reached through
 
-- **Baseline Starter Theme**
+Baseline Starter Theme
+----------------------
+
+The resources of this theme can be reached through
+
     ``/++theme++baseline-starter``
-- **Baseline Theme**
-    ``/++theme++baseline``
 
-There are placed at ``diazotheme.baseline/diazotheme/baseline/`` directory 
-with following resources files:
+There are placed at ``diazotheme.baseline/diazotheme/baseline/starter`` 
+directory with following resources files:
 
 ::
 
     _ starter
-      Provides the resources from *Baseline Starter Theme*.
+      Provides the resources from "Baseline Starter Theme".
       _ manifest.cfg
       _ rules.xml
-      
+
+
+Baseline Theme
+--------------
+
+The resources of this theme can be reached through
+
+    ``/++theme++baseline``
+
+There are placed at ``diazotheme.baseline/diazotheme/baseline/theme`` 
+directory with following resources files:
+
+::
+
     _ theme
-      Provides the resources from *Baseline Theme*.
+      Provides the resources from "Baseline Theme".
       _ html5.js
       _ index.html
       _ manifest.cfg
